@@ -1,1 +1,1 @@
-# publishing-demo2
+# publishing-demo
